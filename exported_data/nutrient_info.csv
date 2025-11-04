@@ -1,1 +1,3 @@
-product_code,energy_kcal_value,energy_kj_value,carbohydrates_value,sugars_value,fat_value,saturated_fat_value,proteins_value,fiber_value,salt_value,sodium_value,fruits_vegetables_nuts_estimate_from_ingredients_100g,nutrition_score_fr,nova_group
+version https://git-lfs.github.com/spec/v1
+oid sha256:1c4d71855d30ebd6613a0d2c367d71cd408b456030ec313ef692611da4c89da2
+size 246
